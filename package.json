@@ -1,6 +1,8 @@
 {
   "name": "@toosick/signature_pad",
-  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Library for drawing smooth signatures.",
   "version": "3.0.0-beta.3-svg-export-fix",
   "homepage": "https://github.com/szimek/signature_pad",
