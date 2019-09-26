@@ -1,5 +1,7 @@
 node_modules/
-dist/
 coverage/
 tmp/
 yarn-error.log
+.idea
+dist/*
+!dist/signature_pad.min.js
